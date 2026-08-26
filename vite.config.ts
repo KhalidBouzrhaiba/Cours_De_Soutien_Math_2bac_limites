@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/Cours_De_Soutien/',
+    base: '/Cours_De_Soutien_Math_2bac_limites/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
