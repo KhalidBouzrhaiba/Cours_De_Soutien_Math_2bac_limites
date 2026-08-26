@@ -1,0 +1,8 @@
+{
+  "name": "Maths BIOF - Tuteur Interactif Limites & Continuité",
+  "description": "Site d'enseignement interactif et tutoriel guidé pour le cours de Mathématiques 2BAC BIOF (Limites, Continuité, TVI, Dichotomie, Fonction Réciproque) par Prof. Khalid (+212 698-595978) avec simulations graphiques 2D automatiques, animations et export PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
